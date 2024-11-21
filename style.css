@@ -1,0 +1,22 @@
+body{
+    background-image: url("f1.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black
+    }
+    
+    h1{
+       color: white;
+       background-color: grey;
+       text-decoration: underline;
+       }
+
+    a{
+        color: whire;
+    }
+
+    p1{
+        color: white;
+    }
+    
